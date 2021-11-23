@@ -1,0 +1,89 @@
+body{
+	text-align: center;
+	background-image:url(ip.jpg);
+    background-repeat: no-repeat;
+    background-size: 1370px 700px;
+    
+}
+.header {
+  
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background: #1abc9c;
+   color: white;
+   text-align: center;
+   padding-bottom: 49px;
+ 
+  
+}
+.h{
+	
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background: #1abc9c;
+   color: white;
+   text-align: center;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 5px;
+  border-style: solid;
+  border-color:blue;
+  border-width: thin; 
+  text-align: left; 
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 120px
+}
+input {
+  width: 98%;
+}
+select{
+	width:98%;
+	
+}
+button { 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 20px; 
+        margin: 8px 0; 
+        border: none; 
+        cursor: pointer; 
+        width: 98%; 
+    }
+button:hover { 
+        opacity: 0.8; 
+    } 
+.footer {
+  
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background: #1abc9c;
+   color: white;
+   text-align: center;
+   margin-top: 280px
+}
+
+ul{
+	list-style-type: none;
+	border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-style: solid;
+    border-color:blue;
+    border-width: thin; 
+    text-align: center; 
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 150px
+
+}
+a{
+	
+	text-decoration: none;
+}
